@@ -1,1 +1,1 @@
-trendoz-ecommerce-front-end.vercel.app
+[Trendoz E-commerce - Live App](https://trendoz-ecommerce-front-end.vercel.app)
